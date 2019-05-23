@@ -36,7 +36,7 @@ import (
 	"github.com/hajimehoshi/ebiten/audio/wav"
 	raudio "github.com/hajimehoshi/ebiten/examples/resources/audio"
 	"github.com/hajimehoshi/ebiten/examples/resources/fonts"
-	resources "github.com/hajimehoshi/ebiten/examples/resources/images/doge"
+	resources "github.com/priyasundaresan/doge-game-resources"
 	"github.com/hajimehoshi/ebiten/inpututil"
 	"github.com/hajimehoshi/ebiten/text"
 )
